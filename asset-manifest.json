@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Result-Summary-React-Sass/static/css/main.f341cf62.css",
+    "main.js": "/Result-Summary-React-Sass/static/js/main.1a940a07.js",
+    "static/js/787.0ac5c254.chunk.js": "/Result-Summary-React-Sass/static/js/787.0ac5c254.chunk.js",
+    "index.html": "/Result-Summary-React-Sass/index.html",
+    "static/media/icon-memory.svg": "/Result-Summary-React-Sass/static/media/icon-memory.22a9e0501e58960f3c349cd96fcf108f.svg",
+    "static/media/icon-visual.svg": "/Result-Summary-React-Sass/static/media/icon-visual.61fc2697d5094b6e396276b1a1597c86.svg",
+    "static/media/icon-verbal.svg": "/Result-Summary-React-Sass/static/media/icon-verbal.cc1204a0b0559da591a3ea6e99c5cf50.svg",
+    "static/media/icon-reaction.svg": "/Result-Summary-React-Sass/static/media/icon-reaction.0c1d6b98b4559ba72276d9ceda14692d.svg",
+    "main.f341cf62.css.map": "/Result-Summary-React-Sass/static/css/main.f341cf62.css.map",
+    "main.1a940a07.js.map": "/Result-Summary-React-Sass/static/js/main.1a940a07.js.map",
+    "787.0ac5c254.chunk.js.map": "/Result-Summary-React-Sass/static/js/787.0ac5c254.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f341cf62.css",
+    "static/js/main.1a940a07.js"
+  ]
+}
